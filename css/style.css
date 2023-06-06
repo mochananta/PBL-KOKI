@@ -551,3 +551,7 @@ h6,
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+.fileInput {
+    padding-bottom: 60px;
+}
